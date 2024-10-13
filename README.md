@@ -14,12 +14,12 @@ The primary goal of this project is to critically evaluate the current state of 
 ## About the Dataset
 The dataset used in this project is sourced from <a href="https://github.com/SandaminiW/Indian-School-Education-Statistics/blob/main/dropout-ratio-2012-2015.csv">Kaggle’s Indian School Education Statistics </a> dataset. This dataset includes a wide range of statistics from Indian schools, covering:
 
-1.Enrollment rates across different states and gender categories.
-2.Number of schools, teachers, and students.
-3.Literacy rates segmented by region and social groups.
-4.Teacher-student ratios, dropout rates, and infrastructure availability (electricity, toilets, drinking water, etc.).
-5.Pass percentages for Class 10 and Class 12 exams from various educational boards.
-6.Annual data from multiple years, allowing for longitudinal analysis.
+1.Enrollment rates across different states and gender categories. <br>
+2.Number of schools, teachers, and students. <br>
+3.Literacy rates segmented by region and social groups. <br>
+4.Teacher-student ratios, dropout rates, and infrastructure availability (electricity, toilets, drinking water, etc.). <br>
+5.Pass percentages for Class 10 and Class 12 exams from various educational boards.<br>
+6.Annual data from multiple years, allowing for longitudinal analysis.<br>
 
 The dataset provides a rich foundation for understanding disparities and challenges within the education system, enabling both qualitative and quantitative analysis.
 
